@@ -1,0 +1,16 @@
+{
+  "name": "claimzksyn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cliam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ethers": "^6.13.0",
+    "random-useragent": "^0.5.0",
+    "zksync-ethers": "^6.8.0"
+  }
+}
